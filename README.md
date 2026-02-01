@@ -1,10 +1,10 @@
-# Repository BRSP Transcriptomics 🧬
+# Repository BRSP Transcriptomics 
 
-Selamat datang di repository BRSP Transcriptomics! Repository ini berisi modul praktikum dan skrip R untuk analisis data ekspresi gen (Transcriptomics) menggunakan data publik dari NCBI GEO.
+Selamat datang di repository BRSP Transcriptomics! Repository ini berisi modul dan skrip R untuk analisis data ekspresi gen (Transcriptomics) menggunakan data publik dari NCBI GEO.
 
 Modul ini dirancang khusus untuk memahami alur kerja bioinformatika mulai dari pengambilan data mentah hingga visualisasi hasil.
 
-## 📂 Modul 1: Respon Vaksin Influenza (GSE48018)
+## Modul 1: Respon Vaksin Influenza (GSE48018)
 
 **Tujuan:** Mengidentifikasi gen yang mengalami perubahan ekspresi signifikan (*Differentially Expressed Genes* / DEG) antara individu yang divaksinasi dibandingkan dengan kontrol (baseline).
 
@@ -18,7 +18,7 @@ Modul ini dirancang khusus untuk memahami alur kerja bioinformatika mulai dari p
     * **Heatmap:** Pola klastering 50 gen teratas.
     * **UMAP:** Reduksi dimensi untuk melihat sebaran sampel.
 
-## 📂 Modul 2: Analisis Kanker Paru (GSE10072)
+## Modul 2: Analisis Kanker Paru (GSE10072)
 
 **Tujuan:** Menganalisis perbedaan ekspresi gen antara jaringan Adenokarsinoma Paru (*Lung Adenocarcinoma*) dan jaringan paru normal untuk mencari kandidat biomarker.
 
